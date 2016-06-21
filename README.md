@@ -1,2 +1,5 @@
-# alien-name-gen
-Alien name generator.
+# Alien Name Generator
+
+<https://pixelfoot.github.io/alien-name-gen/>
+
+See also: http://gen.mky.io/
